@@ -1,0 +1,22 @@
+body,
+html {
+	height: 100%;
+	background: #000;
+}
+
+.main-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.signin-container{
+	max-width: 400px;
+	width: 100%;
+	text-align: center;
+}
+
+.btn_connect{
+	margin-top: 10px;
+}
